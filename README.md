@@ -72,6 +72,6 @@ The data architecture processed in this repository numerically proves that, desp
 ## 🚀 Repository Structure and How to Run
 All the rationale behind the metrics, the cleaning pipeline for dirty CSV variables, and the statistical engine in Python are documented linearly in the interactive environment.
 
-1. Access the primary analysis *notebook*: [`https://github.com/alisonclayton/Storytelling-and-Risk-Analysis-and-Cyclicality-PETR4`](#) *(Insert the link to your repository here)*.
+1. Access the primary analysis *notebook*: [https://github.com/alisonclayton/Storytelling-and-Risk-Analysis-and-Cyclicality-PETR4](#).
 2. Ensure you upload the historical dataset (`.csv`) to the same root directory of the execution environment.
 3. The document interleaves the *Business Storytelling* with executable blocks (*E2E Analysis*), replicating a C-Level *dashboard* directly in standard Python output.
