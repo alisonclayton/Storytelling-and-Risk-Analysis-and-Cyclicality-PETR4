@@ -2,6 +2,14 @@
 
 ## [LINK TO THE ENTIRE ANALYSIS](https://github.com/alisonclayton/Storytelling-and-Risk-Analysis-and-Cyclicality-PETR4/blob/bb98273eae16a6cc75f26fc5c46b049f461dc000/Storytelling_and_Risk_Analysis_and_Cyclicality_PETR4.ipynb)
 
+## 🏢 REAL-WORLD DATA AND SCENARIOS
+
+> **Professional Disclaimer:** This project, like all others in this portfolio, is built strictly upon **real-world data and highly applicable corporate scenarios**. 
+>
+> I do not rely on standard, sanitized, or simulated datasets merely to demonstrate tool proficiency. Instead, the analyses developed here reflect the exact challenges faced in a senior day-to-day operation and its underlying layers. 
+> 
+> They demonstrate end-to-end analytical maturity, navigating the complex layers of abstraction — from raw data elicitation and architectural structuring to the delivery of strategic, actionable, and predictive value directly to C-Level decision-makers. This is a showcase of real business impact and fiduciary responsibility, not just syntax execution.
+
 ## 📌 Strategic Context and Business Problem
 
 In the Corporate Finance and M&A ecosystem, evaluating a company's efficiency based on the profit of a single fiscal year is a severe methodological flaw. Cyclical companies exposed to global commodities frequently experience profitability peaks followed by severe margin compressions. 
