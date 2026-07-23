@@ -1,6 +1,6 @@
 # 📈 Statistical Analysis of Cyclicality and Operational Risk (PETR4)
 
-## LINK TO THE ENTIRE ANALYSIS: [https://github.com/alisonclayton/Storytelling-and-Risk-Analysis-and-Cyclicality-PETR4/blob/bb98273eae16a6cc75f26fc5c46b049f461dc000/Storytelling_and_Risk_Analysis_and_Cyclicality_PETR4.ipynb](https://github.com/alisonclayton/Storytelling-and-Risk-Analysis-and-Cyclicality-PETR4/blob/main/Storytelling_and_Risk_Analysis_and_Cyclicality_PETR4.ipynb)
+## LINK TO THE ENTIRE ANALYSIS: [Storytelling_and_Risk_Analysis_and_Cyclicality_PETR4.ipynb](https://github.com/alisonclayton/Storytelling-and-Risk-Analysis-and-Cyclicality-PETR4/blob/main/Storytelling_and_Risk_Analysis_and_Cyclicality_PETR4.ipynb)
 
 ## 🏢 REAL-WORLD DATA AND SCENARIOS
 
