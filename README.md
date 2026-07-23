@@ -1,5 +1,7 @@
 # 📈 Statistical Analysis of Cyclicality and Operational Risk (PETR4)
 
+## [LINK TO THE ENTIRE ANALYSIS](https://github.com/alisonclayton/Storytelling-and-Risk-Analysis-and-Cyclicality-PETR4/blob/bb98273eae16a6cc75f26fc5c46b049f461dc000/Storytelling_and_Risk_Analysis_and_Cyclicality_PETR4.ipynb)
+
 ## 📌 Strategic Context and Business Problem
 
 In the Corporate Finance and M&A ecosystem, evaluating a company's efficiency based on the profit of a single fiscal year is a severe methodological flaw. Cyclical companies exposed to global commodities frequently experience profitability peaks followed by severe margin compressions. 
